@@ -1,2 +1,3 @@
-# cbor-schema.github.io
-CBOR Schema Site
+# CBOR Schema Site
+
+https://cbor.ai

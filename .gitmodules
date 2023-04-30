@@ -1,0 +1,3 @@
+[submodule "cbor-docs"]
+	path = cbor-docs
+	url = git@github.com:cbor-schema/cbor-docs.git
